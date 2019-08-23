@@ -8,7 +8,7 @@ This course explores the materiality and physicality of interactive computing vi
 In this repository, we host example code and lecture PDFs (please email me for the raw PowerPoints, which gives you access to animations and the plentiful embedded movies).
 
 ## Course Curriculum
-This is a new class that will be purposefully experimental. I taught it once before ([Spring 2019](https://github.com/jonfroehlich/CSE599Sp2019) but will be iterating, adding, and subtracting content as we go--this approach offers freshness and flexibility but at a cost, perhaps, of predictability and polish. For my graduate courses (like this one!), I always try to incorporate new technologies, techniques, and methods--some which are new to me—which means that we will be learning together. :) Optmistically, I plan to cover:
+This is a new class that will be purposefully experimental. I taught it once before ([Spring 2019](https://github.com/jonfroehlich/CSE599Sp2019)) but will be iterating, adding, and subtracting content as we go--this approach offers freshness and flexibility but at a cost, perhaps, of predictability and polish. For my graduate courses (like this one!), I always try to incorporate new technologies, techniques, and methods--some which are new to me—which means that we will be learning together. :) Optmistically, I plan to cover:
 
 - **Prototyping Interactive Devices**
   - Background and theories about ideation, prototyping, and the science of design
