@@ -30,7 +30,7 @@ This is a new class that will be purposefully experimental. I taught it once bef
   - Introduce and learn popular data analytics tools and toolkits (e.g., Jupyter Notebook, scipy)
   - Introduce and learn popular machine learning toolkits (scikit learn, cloud-based apis)
 - **Optimistically: Applied Computer Vision for HCI**
-I tried to throw this in last year but I couldn't squeeze it in. We'll try again this year. :)
+  - I tried to throw this in last year but I couldn't squeeze it in. We'll try again this year. :)
   - Introduce and learn basic image processing and computer vision techniques most relevant to HCI
   - Gain experience using computer vision libraries and basic understandings of CV principles
   - Reinforce ML pipeline previously discussed
