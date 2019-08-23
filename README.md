@@ -5,6 +5,7 @@ This course explores the materiality and physicality of interactive computing vi
 - **The emergence of the DIY/Makers movement**, which has led to widespread opportunities to interface and work with hardware that has rather low barriers of entry (e.g., the Arduino), provides new opportunities for coupling form with computation (e.g., through digital fabrication), and provides countless online materials/tutorials to help us along.
 - **The pervasiveness of powerful mobile computers and IoT devices** that are constantly on and nearly constantly with us (or around us) and imbued with a rich array of sensors such as accelerometers, gyroscopes, and location-sensing that allow for new types of off-the-desktop interaction
 - **Advancements in machine learning and computer vision and maturing ML/CV toolkits/APIs** that enable us to process and use sensor data in new ways for human-computer interaction (without being experts in ML or CV ourselves!)
+
 Taken together, we can no longer simply consider the [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) and [WIMP](https://en.wikipedia.org/wiki/WIMP_%28computing) interfaces as primary interaction models for computing. We must explore new spaces of interaction that are, in part, enabled by the above three points. In this class, we will use materials to help us think and to push our own boundaries of what interactive computing is and could be. 
 
 ## Course Curriculum
