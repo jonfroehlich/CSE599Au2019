@@ -10,7 +10,7 @@ Taken together, we can no longer simply consider the [GUI](https://en.wikipedia.
 ## Course Curriculum
 This is a new class that will be purposefully experimental. I taught it once before ([Spring 2019](https://github.com/jonfroehlich/CSE599Sp2019)) but will be iterating, adding, and subtracting content as we go--this approach offers freshness and flexibility but at a cost, perhaps, of predictability and polish. For my graduate courses (like this one!), I always try to incorporate new technologies, techniques, and methods--some which are new to me—which means that we will be learning together. :) Optmistically, I plan to cover:
 
-- **Prototyping Interactive Devices**
+- **Prototyping Processes and Rationale**
   - Background and theories about ideation, prototyping, and the science of design
   - When and how to prototype
   - Apply HCI design process to interactive device design from form to function
