@@ -35,3 +35,10 @@ This is a new class that will be purposefully experimental. I taught it once bef
   - Introduce and learn basic image processing and computer vision techniques most relevant to HCI
   - Gain experience using computer vision libraries and basic understandings of CV principles
   - Reinforce ML pipeline previously discussed
+  
+## Lectures
+### [Lecture 01: Prototyping Interactive Systems](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L01-PrototypingInteractiveSystems.pdf)
+- What are interactive systems?
+- Course overview
+- Overview of A1: Interactive Night Light assignment
+- How to prototype interactive systems
