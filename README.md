@@ -59,7 +59,7 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - How to debug using **Serial Monitor** and **multimeters**
 - How to use an **RGB LED** (if time)
 
-### [Lecture 04: Physcomp 2: Arduino & Analog Output](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L04-PhysicalComputing3-AnalogOutput.pdf)
+### [Lecture 04: Physcomp 3: Arduino & Analog Output](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L04-PhysicalComputing3-AnalogOutput.pdf)
 - What is **analog output**?
 - What is **PWM** and why does it matter?
 - How to use **analogWrite()**
