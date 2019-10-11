@@ -21,7 +21,7 @@ const int RGB_GREEN_PIN  = 5;
 const int RGB_BLUE_PIN  = 3;
 const int DELAY_INTERVAL = 10; // interval in ms between incrementing hues
 float _hue = 0; //hue varies between 0 - 1
-float _step = 0.1f;
+float _step = 0.001f;
 
 RGBConverter _rgbConverter;
 
@@ -38,7 +38,7 @@ void setup() {
 void loop() {
  
   byte rgb[3];
-  _rgbConverter.hslToRgb(_hue,1.0,1.0,rgb);
+  _rgbConverter.hslToRgb(_hue,1.0,0.5,rgb);
 
   Serial.print("hue=");
   Serial.print(_hue);
