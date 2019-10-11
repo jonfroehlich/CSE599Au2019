@@ -1,6 +1,10 @@
 /*
  * Tests ESP32 WiFi connection on UW campus
  * 
+ * See instructions here: 
+ *   - https://github.com/jonfroehlich/CSE599Au2019/wiki/Setting-up-ESP32-Feather-board-for-campus-WiFi-connection
+ * 
+ * 
  * By Liang He
  * http://makeabilitylab.io
  * 

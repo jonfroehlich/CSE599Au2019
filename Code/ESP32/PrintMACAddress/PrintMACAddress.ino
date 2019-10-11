@@ -1,5 +1,7 @@
 /*
  * Prints MAC address of ESP32
+ * See instructions here: 
+ *   - https://github.com/jonfroehlich/CSE599Au2019/wiki/Setting-up-ESP32-Feather-board-for-campus-WiFi-connection
  * 
  * By Liang He and Jon Froehlich
  * http://makeabilitylab.io
