@@ -59,10 +59,20 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - How to debug using **Serial Monitor** and **multimeters**
 - How to use an **RGB LED** (if time)
 
-### [Lecture 04: Physcomp 3: Arduino & Analog Output](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L04-PhysicalComputing3-AnalogOutput.pdf)
+### [Lecture 04: Physcomp 3: Analog Output](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L04-PhysicalComputing3-AnalogOutput.pdf)
 - What is **analog output**?
 - What is **PWM** and why does it matter?
 - How to use **analogWrite()**
 - How to output a **true analog signal** using DACs
 - Introduction to **vibration motors** and how to use them
 - (Partial) Introduction to **potentiometers** and **analog input** (if time)
+
+### [Lecture 05: Physcomp 4: Analog Input](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L05-PhysicalComputing4-AnalogInput.pdf)
+- Working with **analog input**
+- What is a **knob/trim potentiometer** and how to use it
+- What is a **slide potentiometer** and how to use it
+- What are **variable resistive sensors** and how to use them
+- How to use a **photocell, force sensistive resistor**, etc.
+- Understanding the **importance of voltage dividers** when working with analog input (and the relevancy of Ohm’s law!)
+- How to **select R2** in a voltage divider with a variable resisitive sensor
+
