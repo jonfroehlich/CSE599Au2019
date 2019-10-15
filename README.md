@@ -76,3 +76,12 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - Understanding the **importance of voltage dividers** when working with analog input (and the relevancy of Ohm’s law!)
 - How to **select R2** in a voltage divider with a variable resisitive sensor
 
+### [Lecture 06: Physcomp 5: Digital Input](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L06-PhysicalComputing5-DigitalInput.pdf)
+- Working with **digital input**
+- How to **hook up a button**
+- What are **pull-up** and **pull-down resistors** and why use them
+- What is **debouncing** and how to implement it
+- What are **interrupts** and how to use them
+- Maybe: tilt switches, reed switches
+
+
