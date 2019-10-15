@@ -1,6 +1,6 @@
 /*
  * This example demonstrates the importance of debouncing buttons by tracking both
- * raw transitions from LOW to HIGH on the input pin D8 as well as debounced
+ * raw transitions from LOW to HIGH on the input pin as well as debounced
  * transitions from LOW to HIGH. Without debouncing, you'll observe that
  * the raw number of button presses quickly tracks a large number of transient
  * LOW to HIGH transitions due to the conductive materials vibrating against
