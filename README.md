@@ -84,7 +84,7 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - What are **interrupts** and how to use them
 - Maybe: tilt switches, reed switches
 
-### [Lecture 07: Form 1: Intro to 3D Printing(https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L07-PrototypingForm1-3DPrinting.pdf)
+### [Lecture 07: Form 1: Intro to 3D Printing](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L07-PrototypingForm1-3DPrinting.pdf)
 - How CAD tools + 3D printing can be used to rapidly prototype form
 - An introduction to **two primary 3D printing** methods: **SLA** and **FDM**
 - The **3D printing pipeline**
