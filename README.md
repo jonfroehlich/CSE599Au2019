@@ -91,3 +91,11 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - Modeling designs in **Fusion 360**
 - What is **slicing** and what do we use it for
 - 3D printing **troubleshooting**
+
+Lecture 08: Wire Tools and Soldering
+Intro to **wires**
+Intro to **basic electronic hand tools**
+How to **solder**
+How to use a **perfboard**
+Design activity: **build an LED flashlight** with a perfboard
+(If time) **Solder header** pins on Adafruit Huzzah32 ESP32 board
