@@ -92,10 +92,20 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - What is **slicing** and what do we use it for
 - 3D printing **troubleshooting**
 
-Lecture 08: Wire Tools and Soldering
+Lecture 08: Form 2: Wire Tools and Soldering
 - Intro to **wires**
 - Intro to **basic electronic hand tools**
 - How to **solder**
 - How to use a **perfboard**
 - Design activity: **build an LED flashlight** with a perfboard
 - (If time) **Solder header** pins on Adafruit Huzzah32 ESP32 board
+
+Lecture 09: Form 3: Fusion 360
+- Sketching: How to **move** objects 
+- Sketching: How to **resize** objects 
+- Sketching: What are **construction lines**? 
+- Sketching: How to use **constraints**
+- 3D: How to **import 3D objects**
+- 3D: How to **project** from 3D to 2D
+- Design activity: making a case for Huzzah32
+- (If time) 3D: How to use **revolve** and circular patterns
