@@ -92,7 +92,7 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - What is **slicing** and what do we use it for
 - 3D printing **troubleshooting**
 
-Lecture 08: Form 2: Wire Tools and Soldering
+### [Lecture 08: Form 2: Wire Tools and Soldering](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L08-PrototypingForm2-WireToolsAndSoldering.pdf)
 - Intro to **wires**
 - Intro to **basic electronic hand tools**
 - How to **solder**
@@ -100,7 +100,7 @@ Lecture 08: Form 2: Wire Tools and Soldering
 - Design activity: **build an LED flashlight** with a perfboard
 - (If time) **Solder header** pins on Adafruit Huzzah32 ESP32 board
 
-Lecture 09: Form 3: Fusion 360
+### [Lecture 09: Form 3: Fusion 360](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L09-PrototypingForm2-Fusion360.pdf)
 - Sketching: How to **move** objects 
 - Sketching: How to **resize** objects 
 - Sketching: What are **construction lines**? 
