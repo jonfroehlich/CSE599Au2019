@@ -93,9 +93,9 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - 3D printing **troubleshooting**
 
 Lecture 08: Wire Tools and Soldering
-Intro to **wires**
-Intro to **basic electronic hand tools**
-How to **solder**
-How to use a **perfboard**
-Design activity: **build an LED flashlight** with a perfboard
-(If time) **Solder header** pins on Adafruit Huzzah32 ESP32 board
+- Intro to **wires**
+- Intro to **basic electronic hand tools**
+- How to **solder**
+- How to use a **perfboard**
+- Design activity: **build an LED flashlight** with a perfboard
+- (If time) **Solder header** pins on Adafruit Huzzah32 ESP32 board
