@@ -73,7 +73,7 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - What is a **slide potentiometer** and how to use it
 - What are **variable resistive sensors** and how to use them
 - How to use a **photocell, force sensistive resistor**, etc.
-- Understanding the **importance of voltage dividers** when working with analog input (and the relevancy of Ohm’s law!)
+- Understanding the **importance of voltage dividers** when working with analog input (& relevancy of Ohm’s law!)
 - How to **select R2** in a voltage divider with a variable resisitive sensor
 
 ### [Lecture 06: Physcomp 5: Digital Input](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L06-PhysicalComputing5-DigitalInput.pdf)
