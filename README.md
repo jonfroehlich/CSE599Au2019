@@ -73,7 +73,7 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - What is a **slide potentiometer** and how to use it
 - What are **variable resistive sensors** and how to use them
 - How to use a **photocell, force sensistive resistor**, etc.
-- Understanding the **importance of voltage dividers** when working with analog input (and the relevancy of Ohm’s law!)
+- Understanding the **importance of voltage dividers** when working with analog input (& relevancy of Ohm’s law!)
 - How to **select R2** in a voltage divider with a variable resisitive sensor
 
 ### [Lecture 06: Physcomp 5: Digital Input](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L06-PhysicalComputing5-DigitalInput.pdf)
@@ -84,4 +84,28 @@ This is a new class that will be purposefully experimental. I taught it once bef
 - What are **interrupts** and how to use them
 - Maybe: tilt switches, reed switches
 
+### [Lecture 07: Form 1: Intro to 3D Printing](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L07-PrototypingForm1-3DPrinting.pdf)
+- How CAD tools + 3D printing can be used to rapidly prototype form
+- An introduction to **two primary 3D printing** methods: **SLA** and **FDM**
+- The **3D printing pipeline**
+- Modeling designs in **Fusion 360**
+- What is **slicing** and what do we use it for
+- 3D printing **troubleshooting**
 
+### [Lecture 08: Form 2: Wire Tools and Soldering](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L08-PrototypingForm2-WireToolsAndSoldering.pdf)
+- Intro to **wires**
+- Intro to **basic electronic hand tools**
+- How to **solder**
+- How to use a **perfboard**
+- Design activity: **build an LED flashlight** with a perfboard
+- (If time) **Solder header** pins on Adafruit Huzzah32 ESP32 board
+
+### [Lecture 09: Form 3: Fusion 360](https://github.com/jonfroehlich/CSE599Au2019/blob/master/Lectures/CSE599_L09-PrototypingForm2-Fusion360.pdf)
+- Sketching: How to **move** objects 
+- Sketching: How to **resize** objects 
+- Sketching: What are **construction lines**? 
+- Sketching: How to use **constraints**
+- 3D: How to **import 3D objects**
+- 3D: How to **project** from 3D to 2D
+- Design activity: making a case for Huzzah32
+- (If time) 3D: How to use **revolve** and circular patterns
